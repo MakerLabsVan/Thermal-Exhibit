@@ -4,6 +4,7 @@ Microcontroller code for the space museum's thermal properties exhibit
 Photos in action: https://photos.app.goo.gl/sCPz17kk2VwBpE4D8
 
 Video of functionality: https://www.youtube.com/watch?v=1rDmInTQTHM&feature=youtu.be
+
 Video of safety cut-off: https://youtu.be/pOpLyBHxCaI 
 
 Pictures of Arduino wiring:
